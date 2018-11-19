@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  h1 {
+    font-weight: bold;
+    margin: 20px 0;
+  }
+}
+
+form {
+  width: 100%;
+  .btn {
+    font-weight: bold;
+  }
+}
+
+.question-box {
+  padding: 20px;
+  margin: 10px 0;
+  border-left: 4px solid rgba(0,0,0,0.2);
+}
+
+.answer-box {
+  padding: 20px;
+  margin: 10px 0;
+  border-left: 4px solid rgba(0,0,0,0.2);
+  background-color: #C2DFE3;
+}
+
